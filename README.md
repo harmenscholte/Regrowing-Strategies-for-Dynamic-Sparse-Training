@@ -12,3 +12,7 @@ Built on top of "adaptive performance-based connectivity of SET" (https://essay.
 
 Source:
 Lapshyna, V. (2020) Sparse artificial neural networks : Adaptive performance-based connectivity inspired by human-brain processes.
+
+
+Github did not let me upload the code, so, you can find it here:
+https://harmenscholte.com/regrowing-strategies/
